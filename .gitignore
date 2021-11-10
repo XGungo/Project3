@@ -1,2 +1,5 @@
 *.pdf
 *.bin
+*.dSYM/
+2584
+.vscode
